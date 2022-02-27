@@ -3,7 +3,7 @@ Use the Buildroot to create custom Linux-based systems.
 
 Host machine <br/>
 uname -a <br/>
-inux ubuntu-linux-20-04-desktop 5.13.0-25-generic #26~20.04.1-Ubuntu SMP Sat Jan 8 18:05:46 UTC 2022 aarch64 aarch64 aarch64 GNU/Linux &nbsp;
+linux ubuntu-linux-20-04-desktop 5.13.0-25-generic #26~20.04.1-Ubuntu SMP Sat Jan 8 18:05:46 UTC 2022 aarch64 aarch64 aarch64 GNU/Linux &nbsp;
 
 Target machine <br/>
 arm &nbsp;
