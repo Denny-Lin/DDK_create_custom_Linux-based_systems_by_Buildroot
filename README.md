@@ -28,7 +28,7 @@ qemu-system-arm -M versatilepb -kernel output/images/zImage -dtb output/images/v
 
 buildroot login: root &nbsp;
 
-![Screen Shot 2022-02-27 at 2 16 32 PM](https://user-images.githubusercontent.com/67073582/155870744-7eee022d-b4f3-4575-b7f7-021e1dbc1523.png) &nbsp;
+![Screen Shot 2022-02-27 at 2 16 32 PM](https://user-images.githubusercontent.com/67073582/155870744-7eee022d-b4f3-4575-b7f7-021e1dbc1523.png) <br/>
 
 try ls -al &nbsp;
 
