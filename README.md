@@ -15,7 +15,7 @@ sudo apt install git <br/>
 git clone git://git.buildroot.net/buildroot <br/>
 cd buildroot/ &nbsp;
 
-# Build the buildroot
+# Build images
 make qemu_arm_versatile_defconfig <br/>
 make &nbsp;
 
